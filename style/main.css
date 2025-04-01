@@ -204,7 +204,7 @@ body {
 }
 
 .wish-hbd {
-  display: block;
+  display: inline-block;
   font-size: 3em;
   margin: 0;
   text-transform: uppercase;
