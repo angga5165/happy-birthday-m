@@ -207,7 +207,8 @@ body {
   font-size: 3em;
   margin: 0;
   text-transform: uppercase;
-  word-spacing: 15px; 
+  word-spacing: 15px;
+  letter-spacing: 5px; 
 }
 
 .wish h5 {
