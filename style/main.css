@@ -204,11 +204,10 @@ body {
 }
 
 .wish-hbd {
-  font-size: 3rem;
-  margin: 10px 0 0;
+  display: block;
+  font-size: 3em;
+  margin: 0;
   text-transform: uppercase;
-  word-spacing: 5px; 
-  letter-spacing: 2px;
 }
 
 .wish h5 {
