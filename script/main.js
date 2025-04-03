@@ -5,9 +5,9 @@ window.addEventListener('load', () => {
         icon: 'warning',
         showCancelButton: true,
         confirmButtonColor: '#3085d6',
-        cancelButtonColor: '#d33',
+        cancelButtonColor: '#3085d6',
         confirmButtonText: 'Mau bangettt',
-        cancelButtonText: 'G',
+        cancelButtonText: 'Mau engga banget',
     }).then((result) => {
         if (result.isConfirmed) {
             document.querySelector('.song').play();
