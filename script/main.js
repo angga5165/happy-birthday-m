@@ -101,7 +101,7 @@ const animationTimeline = () => {
         },
         0.05
     )
-    .to(".fake-btn", 1.5, {
+    .to(".fake-btn", 0.5, {
         backgroundColor: "rgb(100, 240, 170)",
         boxShadow: "0 0 20px rgba(100, 240, 170, 0.6)",
         ease: "power1.inOut",
