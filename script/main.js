@@ -106,7 +106,7 @@ const animationTimeline = () => {
         boxShadow: "0 0 20px rgba(100, 240, 170, 0.6)",
         ease: "power1.inOut",
     },
-    "+=3")
+    "+=2")
     .to(
         ".four",
         0.5, {
