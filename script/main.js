@@ -141,15 +141,6 @@ const animationTimeline = () => {
         },
         "+=1.5"
     )
-    .to(".idea-5 .special-word", 
-        0.5, {
-            scale: 1.2,
-            x: 10,
-            backgroundColor: "rgb(21, 161, 237)",
-            color: "#fff",
-        }, 
-        "+=0.2"
-    ) 
     .to(
         ".idea-5 span",
         0.7, {
