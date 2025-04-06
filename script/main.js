@@ -5,7 +5,7 @@ window.addEventListener('load', () => {
         icon: 'warning',
         showCancelButton: true,
         confirmButtonColor: '#25D366',
-        cancelButtonColor: '##25D366',
+        cancelButtonColor: '#25D366',
         confirmButtonText: 'Mauuuu bangettttttt',
         cancelButtonText: 'Mau tapi engga pake banget',
     }).then((result) => {
