@@ -4,8 +4,8 @@ window.addEventListener('load', () => {
         title: 'Kamu mau pake musik atau engga sayangg?',
         icon: 'warning',
         showCancelButton: true,
-        confirmButtonColor: '#25D366',
-        cancelButtonColor: '#25D366',
+        confirmButtonColor: '#3085d6',
+        cancelButtonColor: '#3085d6',
         confirmButtonText: 'Mauuuu bangettttttt',
         cancelButtonText: 'Mau tapi engga pake banget',
     }).then((result) => {
