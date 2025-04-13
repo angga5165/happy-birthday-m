@@ -123,7 +123,7 @@ const animationTimeline = () => {
     .to([".idea-3 strong", ".idea-5 .special-word"], 0.5, {
         scale: 1.2,
         x: 10,
-        backgroundColor: "rgb(181, 126, 220)",
+        backgroundColor: "rgb(176, 224, 230)",
         color: "#fff",
     })
     .to(".idea-3", 0.7, ideaTextTransLeave, "+=2.5")
